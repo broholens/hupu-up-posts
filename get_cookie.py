@@ -29,5 +29,5 @@ class CookieGetter:
 
 
 if __name__ == '__main__':
-    cookie_getter = CookieGetter('17121319220', 'aaaaa11111')
+    cookie_getter = CookieGetter('17121319220', '*')
     cookie_getter.save_cookies()
